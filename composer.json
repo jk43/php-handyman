@@ -1,0 +1,17 @@
+{
+    "name": "hotdev/handyman",
+    "description": "Simple utilities",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alex Kim",
+            "email": "jk@jktech.net"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Handyman\\": "src/"
+    	}
+    },
+    "require": {}
+}
